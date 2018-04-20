@@ -5,4 +5,4 @@ This is a user-friendly MATLAB script designed to standardize and analyze filter
 
 While the code should work for many types of EMG signals, it's been mostly applied to facial EMG analyses thus far (https://en.wikipedia.org/wiki/Facial_electromyography).  As examples, see Carr, Winkielman, & Oveis (JEPG 2014; https://evanwalkercarr.weebly.com/uploads/3/2/3/1/32319711/carrwinkielmanoveis2013_jepg_msfinalpub.pdf) and/or Carr, Rotteveel, & Winkielman (Emotion 2016; https://evanwalkercarr.weebly.com/uploads/3/2/3/1/32319711/carr_rotteveel___winkielman__2016__-_emotion.pdf):
 
-For example Mindware files (or more info on the code), email carr324@gmail.com.
+For example Mindware files (or more info on the code), email Evan Carr at carr324@gmail.com.
