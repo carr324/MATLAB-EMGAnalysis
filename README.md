@@ -1,4 +1,4 @@
-# matlab-fEMG-analysis
+# MATLAB-fEMG-analysis
 GUI-based MATLAB script to standardize EMG outputs from Mindware:
 
 This is a user-friendly MATLAB script designed to standardize and analyze filtered electromyography (EMG) signals, specifically those outputted by Mindware EMG software (https://www.mindwaretech.com/product_detail.asp?ItemID=557).  Parameters for the analysis are set through a GUI when the script is started, so the user doesn't need to know MATLAB to use it.  Various settings can be changed through the GUI when the script is run (e.g., baseline/trial length, standardization methods, outlier cleaning, etc.).  The script is also 100% compatible with GNU Octave (https://www.gnu.org/software/octave/).  Note that the code was created using Windows (so there may be a few lingering issues when porting to Mac's).
